@@ -8,7 +8,7 @@
 <!---
 AMRITHESHVALSAN/AMRITHESHVALSAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-(https://github.com/AMRITHESHVALSAN/AMRITHESHVALSAN/assets/156893725/a8f57b7c-61b8-4411-b6b6-57b7cf15733d)
 
+
+--->
 
